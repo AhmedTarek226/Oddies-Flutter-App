@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700815709536",
+    "firebase_url": "https://buy-it-a27f9.firebaseio.com",
+    "project_id": "buy-it-a27f9",
+    "storage_bucket": "buy-it-a27f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700815709536:android:7a38704533c08c511c3a05",
+        "android_client_info": {
+          "package_name": "ahmed.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700815709536-0dmg5vo2pet6kkhlbuompa859gpgup09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NS9MiphiEIZ3OeeK074lW4bNuw9KStc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700815709536-0dmg5vo2pet6kkhlbuompa859gpgup09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
